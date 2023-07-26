@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - I am changing the code
+- Here i am making changes
 
 <!---
 Suma1234623/Suma1234623 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
